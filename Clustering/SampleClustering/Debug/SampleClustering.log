@@ -1,0 +1,8 @@
+﻿  makesample.cpp
+d:\angus_lab\documents\defaultrepos\clustering\sampleclustering\makesample.cpp(152): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  clustering.cpp
+d:\angus_lab\documents\defaultrepos\clustering\sampleclustering\clustering.cpp(39): warning C4101: “val”: 未引用的局部变量
+d:\angus_lab\documents\defaultrepos\clustering\sampleclustering\clustering.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+D:\angus_lab\Documents\DefaultRepos\Clustering\Debug\SampleClustering.exe : fatal error LNK1120: 1 个无法解析的外部命令

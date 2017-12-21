@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\angus_lab\documents\defaultrepos\clustering\directclustering\main.cpp(13): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  DirectClustering.vcxproj -> D:\angus_lab\Documents\DefaultRepos\Clustering\Debug\DirectClustering.exe
